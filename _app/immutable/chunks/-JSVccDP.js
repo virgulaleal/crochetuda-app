@@ -1,0 +1,1 @@
+var e={app:{nome:`Crochetuda`,subtitulo:`Galeria e design`},meta:{titulo:`Crochetuda`,descricao:`De fazer crochê.`},home:{titulo:`Galeria`,descricao:`Busque, filtre, ordene e abra seus designs.`},workspace:{modos:{acompanhar:`Acompanhar`,editar:`Editar`}},importar:{titulo:`Novo`}};export{e as t};
